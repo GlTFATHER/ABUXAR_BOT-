@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "GUS FRING",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
+    "ip": "FlGHTCLUB767-NAJV.aternos.me",
+    "port": 57450,
     "version": "",
     "try-creative": false
   },
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "FUCK YOU _KING_003",
+        "I'M THE ONE WHO FUCK HARIS",
+        "NOW SAY MY NAME?"
       ]
     },
     "chat-log": true,
